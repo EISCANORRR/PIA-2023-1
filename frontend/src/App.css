@@ -1,3 +1,15 @@
+:root {
+  --black: #000000;
+  --orange: #FFC014;
+  --yellow: #FFFF00;
+  --white: #F9FFFC;
+  --gray: #B2C3BF;
+  --blue: #00008B;
+  --darkblue: #10002B;
+  --lightblue: #7967E9;
+  --averageblue: #443A83;
+}
+
 * {
   margin: 0;
   padding: 0;
